@@ -28,6 +28,16 @@ public class UserView {
 
 			MobilePhones mobilePhones = new MobilePhones();
 			mobilePhones.getMobilePhones();
+			
+		case 103:
+			System.out.print("Product Id: 103\n");
+			System.out.println();
+			System.out.print("Product Name: Keyborard\n");
+			System.out.println();
+			
+			Keyboard keyboard=new Keyboard();
+			keyboard.getKeyboard();
+			
 
 		}
 

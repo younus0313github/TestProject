@@ -4,7 +4,6 @@ import java.security.interfaces.RSAKey;
 import java.util.Scanner;
 import javax.swing.plaf.synth.SynthScrollBarUI;
 
-
 public class Ecommerce {
 
 	public static void main(String[] args) {
@@ -170,4 +169,3 @@ public class Ecommerce {
 	}
 
 }
-

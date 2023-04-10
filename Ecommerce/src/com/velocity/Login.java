@@ -14,12 +14,11 @@ public class Login {
 		System.out.print("Enter the password:");
 		String password = sca.next();
 		System.out.println();
-		
 
 		if (username == "Ram123") {
 			if (password == "Ram@123") {
 				System.out.println("Successfully Login...");
-				
+
 			}
 
 		} else {
